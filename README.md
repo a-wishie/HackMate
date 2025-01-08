@@ -1,8 +1,8 @@
-# TeamFinder: A Tinder-like App for Team Building for Programmers
+# HackMate: A Tinder-like App for Team Building for Programmers
 
 ## Overview
 
-**TeamFinder** is an innovative team-building application designed for programmers. It helps individuals find the best collaborators for hackathons, projects, or long-term development work. Using a Tinder-like interface, users can swipe to connect with other programmers based on complementary skills, project interests, and availability.
+**HackMate** is an innovative team-building application designed for programmers. It helps individuals find the best collaborators for hackathons, projects, or long-term development work. Using a Tinder-like interface, users can swipe to connect with other programmers based on complementary skills, project interests, and availability.
 
 ---
 
@@ -29,5 +29,5 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/TeamFinder.git
-   cd TeamFinder
+   git clone https://github.com/yourusername/HackMate.git
+   cd HackMate
